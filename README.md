@@ -19,7 +19,7 @@ in one place. The employer sees totals only, never an individual.
 
 ### Other work
 
-[FinnStackIQ](https://github.com/nosteranimo99/FinnStackIQ) is a money game for
+[FinStackIQ](https://github.com/nosteranimo99/FinStackIQ) is a money game for
 grades 6 to 8. Students earn, spend, recover from bad choices and learn to spot
 scams. It is a demo that runs in the browser.
 
